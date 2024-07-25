@@ -60,7 +60,7 @@ python manage.py runserver
 Open your web browser and navigate to `http://127.0.0.1:8000/` to access the application.
 
 ## 📚 Machine Learning Algorithms
-This research paper employs three main machine learning algorithms to accurately predict loan approval outcomes:
+This research paper employs three main machine learning algorithms to accurately predict crime occurrences:
 
 ### (a) KNeighborsClassifier
 KNeighborsClassifier is an algorithm from the scikit-learn library based on the k-nearest neighbors method. It implements machine learning algorithms using the instance-based learning framework, making it suitable for classification tasks. KNeighborsClassifier is compatible with Linux, Windows, and macOS operating systems.
